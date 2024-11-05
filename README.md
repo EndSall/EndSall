@@ -56,7 +56,8 @@
 ---
 
 ### 🌟 **Obrigado pela visita!** Sinta-se à vontade para explorar meus repositórios e projetos.
-![Visitantes](https://komarev.com/ghpvc/?username=SeuUsuarioGitHub&color=blue)
+
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Endsall/count.svg" /></p>
 
 ![painelInf](https://camo.githubusercontent.com/f5afc35289f576638056ab5a2171a4fc940b20fe14ae26c2f671b6a9783cfa07/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303030303030266865696768743d3132302673656374696f6e3d666f6f746572)
 
