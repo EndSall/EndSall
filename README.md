@@ -43,13 +43,13 @@
 <h2 align="center">📈 Minhas Estatísticas GitHub</h2>
 
 <div align="center">
- <a href="https://github-readme-stats.vercel.app/api?username=EndSall/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=EndSall&show_icons=true&theme=radical" />
+<a href="https://github.com/EndSall/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=EndSall&theme=radical" />
 </a>
-<a href="https://github.com/EndSall/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EndSall&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
-
+   
 </div>
 <div align="center">
 
