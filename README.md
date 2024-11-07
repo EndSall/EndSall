@@ -37,16 +37,17 @@
     <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
   </div>
-&theme=radical
 </div>
 
 <h2 align="center">📈 Minhas Estatísticas GitHub</h2>
 
+<div align="center">
+
 <a href="https://github.com/EndSall/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Endsall&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Endsall&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/EndSall/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EndSall&layout=donut&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EndSall&layout=donut&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 </div>
