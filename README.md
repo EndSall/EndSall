@@ -12,6 +12,9 @@
 
 - 🌱 Atualmente estou cursando **Analise e desenvolvimento de sistemas na Universidade Cruzeiro do Sul**
 - 👨‍💻 Estudando: **Python, Css, Html5, Java, JavaScript**
+- 👇Meu portifolio
+  
+  [![gitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EndSall/portifolio "Meu Portifolio")
 <div align="center">
 
 ### Onde me contactar?🧙‍♂️
